@@ -1,0 +1,36 @@
+h1 {
+    color: darkslateblue;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#container {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#HandHygiene {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f9f9a6;
+}
+
+#OralCare {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #c6e2ff;     
+}
+
+#BodyCleanliness {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #d4f4dd;
+}
+
+#NailCare {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #ffe0e0;
+}
+
+#HairCare {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #e6e6fa;
+}
