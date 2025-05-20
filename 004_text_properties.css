@@ -1,0 +1,82 @@
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+#profile-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: left;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #2c3e50;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    text-decoration: underline;
+    background-color: #2c3
+}
+
+h2 {
+    color: aqua;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    background-color: purple;
+}
+
+.bio-text {
+    font-size: 16px;
+    font-style: italic;
+    color: #555;
+}
+
+.hobby-list {
+    font-weight: bold;
+    text-align: left;
+    white-space: normal;
+}
+
+h3 {
+    color: palevioletred;
+    text-align: center;
+    text-transform: capitalize;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+blockquote {
+    margin: 20px 0;
+    padding: 10px 20px;
+    background-color: #eef;
+    border-left: 5px solid #88c;
+    font-style: italic;
+    color: #333;
+}
+
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: inherit;
+    text-align: center;
+    color: black;
+    margin-top: 30px;
+}
