@@ -1,0 +1,30 @@
+
+#box-model1 {
+    width: 300px;
+    height: 250px;
+    padding: 20px 15px 10px 10px;
+    margin: 20px 10px 15px 25px;
+    border: 3px dashed red;
+    box-sizing: content-box;
+    background-color: lightblue;
+}
+
+#box-model2 {
+    width: 300px;
+    height: 250px;
+    padding: 15px 20px 15px 20px;
+    margin: 25px 10px 20px 10px;
+    border: 4px solid green;
+    box-sizing: border-box;
+    background-color: lightgreen;
+}
+
+#box-model3 {
+    width: 300px;
+    height: 250px;
+    padding: 10px 15px 20px 15px;
+    margin: 15px 30px 25px 10px;
+    border: 5px dotted blue;
+    box-sizing: border-box;
+    background-color: lightcoral;
+}
